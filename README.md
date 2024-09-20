@@ -1,7 +1,7 @@
 # DNS Server in Rust
 
 This project implements a basic DNS (Domain Name System) server using Rust. The goal is to build a fully functional DNS server that can resolve domain names to IP addresses while learning more about network programming in Rust.
-
+<div float="left">
 <img src="https://img.shields.io/github/license/ravikisha/RustDNS" alt="License" />
 <img src="https://img.shields.io/github/stars/ravikisha/RustDNS" alt="Stars" />
 <img src="https://img.shields.io/github/forks/ravikisha/RustDNS" alt="Forks" />
@@ -9,6 +9,7 @@ This project implements a basic DNS (Domain Name System) server using Rust. The 
 <img src="https://img.shields.io/github/issues-pr/ravikisha/RustDNS" alt="Pull Requests" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 <img src="https://img.shields.io/badge/OS-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+</div>
 
 ## Features
 
